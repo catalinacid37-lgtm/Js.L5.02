@@ -1,0 +1,31 @@
+body{
+    font-family: Arial;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-style: oblique;
+}
+
+h1{
+    text-align: center;
+}
+
+#resultado{
+    background-color:white ;
+    padding: 15px;
+    border-radius:  8px;
+    max-width: 500px;
+    margin: auto;
+}
+
+#recargar{
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    display: block;
+
+
+}
+
+
